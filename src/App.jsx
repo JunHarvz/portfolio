@@ -190,7 +190,7 @@ export default function App() {
                   ))}
                 </div>
                 <div className="flex gap-2">
-                  <a href="https://github.com/JunHarvz/service-portal/" target="_blank" className="px-3 py-2 bg-[#00bcd4] text-black rounded text-sm font-semibold">
+                  <a href="https://github.com/JunHarvz" target="_blank" className="px-3 py-2 bg-[#00bcd4] text-black rounded text-sm font-semibold">
                     GitHub
                   </a>
                   <a className="px-3 py-2 bg-[#7b61ff] text-black rounded text-sm font-semibold">Live</a>
