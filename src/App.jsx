@@ -200,7 +200,7 @@ export default function App() {
           ))}
         </div>
       </section>
-      
+      {/* RESUME */}
       <section id="resume" className="py-16 bg-base-200">
         <div className="max-w-5xl mx-auto px-4">
           <h2 className="text-4xl font-bold text-center mb-6">📄 My Resume</h2>
@@ -219,7 +219,7 @@ export default function App() {
             {/* Buttons */}
             <div className="flex gap-4">
               <a
-                href="/resume.pdf"
+                href="/HARVEY_RESUME.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn btn-primary"
